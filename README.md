@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br><br>📚 I'm currently learning MySQL<br><br>🎯 Goals:<br> - Become a Fullstack developer<br> - Develop my portfolio<br> - Search for certifications</p>
+<p align="left">✨ Creating bugs since 2023<br><br>📚 I'm currently learning Java<br><br>🎯 Goals:<br> - Become a Fullstack developer<br> - Develop my portfolio<br> - Search for certifications</p>
 
 ###
 
