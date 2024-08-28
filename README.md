@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/lucas-venturin-trindade-315b7a24a" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-venturin-trindade-315b7a24a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/41992688234" target="_blank">
@@ -57,7 +57,7 @@
   <a href="https://www.instagram.com/venturintrindade?igsh=MTR4bWsyODc4bXZwbg==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="lucasventurintrindade@gmail.com" target="_blank">
+  <a href="mailto:lucasventurintrindade@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
