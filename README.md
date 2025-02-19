@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br><br>📚 I'm currently learning Angular<br><br>🎯 Goals:<br> - Become a Fullstack developer<br> - Develop my portfolio<br> - Search for certifications</p>
+<p align="left">✨ Creating bugs since 2023<br><br>📚 I'm currently learning something to WordPress<br><br>🎯 Goals:<br> - Become a Fullstack developer<br> - Develop my portfolio<br> - Search for certifications</p>
 
 ###
 
