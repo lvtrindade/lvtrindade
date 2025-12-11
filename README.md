@@ -43,7 +43,7 @@ My goal? Becoming a **Fullstack Developer** capable of building complete, scalab
 
 ### **Mobile**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>   <img src="[https://raw.githubusercontent.com/capacitor-community/native-market/main/docs/assets/capacitor-logo.png](https://github.com/devicons/devicon/blob/v2.17.0/icons/capacitor/capacitor-original.svg)" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>   <img src="https://raw.githubusercontent.com/capacitor-community/native-market/main/docs/assets/capacitor-logo.png" height="40"/>
 
 ### **Backend**
 
