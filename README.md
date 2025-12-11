@@ -3,7 +3,6 @@
 # 🌌 Lucas Venturin Trindade — Fullstack Developer
 
 **Curitiba, Brazil • Frontend | Mobile | Fullstack**
-**"Verso l'Alto" 🏔️**
 
 ###
 
