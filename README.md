@@ -1,17 +1,17 @@
----
+###
 
 # 🌌 Lucas Venturin Trindade — Fullstack Developer
 
 **Curitiba, Brazil • Frontend | Mobile | Fullstack**
 **"Verso l'Alto" 🏔️**
 
----
+###
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvtrindade&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak Stats"/>
 </div>
 
----
+###
 
 ## 🚀 About Me
 
@@ -20,7 +20,7 @@ Hi! I'm **Lucas Venturin Trindade**, a passionate developer who started his codi
 I mix **professionalism**, **creativity** and a bit of **chaotic curiosity**.
 My goal? Becoming a **Fullstack Developer** capable of building complete, scalable and elegant solutions — from UI to database.
 
----
+###
 
 ## 🧩 What I Do
 
@@ -32,7 +32,7 @@ My goal? Becoming a **Fullstack Developer** capable of building complete, scalab
 ✔ **Versioning, teamwork and clean architecture**
 ✔ **Academic projects, real-world projects and community projects**
 
----
+###
 
 ## 🛠️ Tech Stack
 
@@ -56,7 +56,7 @@ My goal? Becoming a **Fullstack Developer** capable of building complete, scalab
 
 </div>
 
----
+###
 
 ## 🗂️ Featured Projects
 
@@ -65,21 +65,21 @@ My goal? Becoming a **Fullstack Developer** capable of building complete, scalab
 Projeto completo para um Grupo Escoteiro, com integração, mapa, landing page, dashboard e tecnologias modernas.
 🔗 [https://github.com/lvtrindade/FrassatiEmRede](https://github.com/lvtrindade/FrassatiEmRede)
 
----
+###
 
 ### ⭐ **Bantads — College Project**
 
 Sistema bancário completo desenvolvido em equipe.
 🔗 [https://github.com/JoaoWalter193/DAC-BANTADS](https://github.com/JoaoWalter193/DAC-BANTADS)
 
----
+###
 
 ### ⭐ **BipBip Concertos — College Project**
 
 Aplicação para gerenciamento de serviços e ordens de serviço.
 🔗 [https://github.com/RCorrer/projeto_final_web-II](https://github.com/RCorrer/projeto_final_web-II)
 
----
+###
 
 ## ⏳ Timeline — My Dev Journey
 
@@ -96,7 +96,7 @@ Aplicação para gerenciamento de serviços e ordens de serviço.
 2025 — Building real projects for community impact
 ```
 
----
+###
 
 ## 🎯 Vision & Future
 
@@ -106,7 +106,7 @@ Aplicação para gerenciamento de serviços e ordens de serviço.
 🧭 Build systems that help communities and real organizations
 🎓 Achieve certifications and deepen architecture knowledge
 
----
+###
 
 ## 📊 Stats
 
@@ -115,7 +115,7 @@ Aplicação para gerenciamento de serviços e ordens de serviço.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lvtrindade&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
----
+###
 
 ## 🌐 Social & Contact
 
@@ -126,7 +126,7 @@ Aplicação para gerenciamento de serviços e ordens de serviço.
   <a href="mailto:lucasventurintrindade@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40"/></a>
 </div>
 
----
+###
 
 # 🇧🇷 Versão em Português
 
@@ -137,7 +137,7 @@ Também participo de projetos acadêmicos e projetos reais que ajudam a comunida
 
 Busco sempre evoluir, aprender e construir softwares com propósito.
 
----
+###
 
 <div align="center">
   <h3><strong>🏔️ Verso l'Alto</strong></h3>
