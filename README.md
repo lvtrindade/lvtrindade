@@ -23,13 +23,13 @@ My goal? Becoming a **Fullstack Developer** capable of building complete, scalab
 
 ## 🧩 What I Do
 
-✔ **Frontend Development (Primary Focus)**
-✔ **Mobile Apps with Ionic + Capacitor**
-✔ **Backend with PHP Slim & Node.js**
-✔ **Databases (MySQL, PostgreSQL)**
-✔ **Containerization (Docker & Docker Compose)**
-✔ **Versioning, teamwork and clean architecture**
-✔ **Academic projects, real-world projects and community projects**
+✔ **Frontend Development (Primary Focus)**<br>
+✔ **Mobile Apps with Ionic + Capacitor**<br>
+✔ **Backend with PHP Slim & Node.js**<br>
+✔ **Databases (MySQL, PostgreSQL)**<br>
+✔ **Containerization (Docker & Docker Compose)**<br>
+✔ **Versioning, teamwork and clean architecture**<br>
+✔ **Academic projects, real-world projects and community projects**<br>
 
 ###
 
