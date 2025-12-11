@@ -62,21 +62,21 @@ My goal? Becoming a **Fullstack Developer** capable of building complete, scalab
 
 ### ⭐ **Frassati Em Rede**
 
-Projeto completo para um Grupo Escoteiro, com integração, mapa, landing page, dashboard e tecnologias modernas.
+Projeto completo para um Grupo Escoteiro, com integração, mapa, landing page, dashboard e tecnologias modernas.<br>
 🔗 [https://github.com/lvtrindade/FrassatiEmRede](https://github.com/lvtrindade/FrassatiEmRede)
 
 ###
 
 ### ⭐ **Bantads — College Project**
 
-Sistema bancário completo desenvolvido em equipe.
+Sistema bancário completo desenvolvido em equipe.<br>
 🔗 [https://github.com/JoaoWalter193/DAC-BANTADS](https://github.com/JoaoWalter193/DAC-BANTADS)
 
 ###
 
 ### ⭐ **BipBip Concertos — College Project**
 
-Aplicação para gerenciamento de serviços e ordens de serviço.
+Aplicação para gerenciamento de serviços e ordens de serviço.<br>
 🔗 [https://github.com/RCorrer/projeto_final_web-II](https://github.com/RCorrer/projeto_final_web-II)
 
 ###
@@ -100,11 +100,11 @@ Aplicação para gerenciamento de serviços e ordens de serviço.
 
 ## 🎯 Vision & Future
 
-🌱 Become a **Fullstack Developer**
-📦 Master Docker, microservices and cloud environments
-📱 Deliver more mobile apps with Ionic/Capacitor
-🧭 Build systems that help communities and real organizations
-🎓 Achieve certifications and deepen architecture knowledge
+🌱 Become a **Fullstack Developer**<br>
+📦 Master Docker, microservices and cloud environments<br>
+📱 Deliver more mobile apps with Ionic/Capacitor<br>
+🧭 Build systems that help communities and real organizations<br>
+🎓 Achieve certifications and deepen architecture knowledge<br>
 
 ###
 
